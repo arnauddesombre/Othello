@@ -13,4 +13,4 @@ Othello's Artificial Intelligence is a Monte-Carlo, and the software uses parall
 
 From the game, press F1 to display the help screen at any time, which describes the keyboard and mouse input allowed.
 
-![Screenshot](https://s7.postimg.org/sm0otydqj/Othello.png)
+![Screenshot](https://s21.postimg.org/4heuj42nr/Othello.png)
