@@ -12,5 +12,3 @@ If you have MinGW installed, you can generate a smaller .exe file using:
 Othello's Artificial Intelligence is a Monte-Carlo, and the software uses parallel threading for maximum efficiency. Monte-Carlo is a fairly efficient strategy for a game like Othello and the computer will play quite accurately...
 
 From the game, press F1 to display the help screen at any time, which describes the keyboard and mouse input allowed.
-
-![Screenshot](https://s21.postimg.org/4heuj42nr/Othello.png)
